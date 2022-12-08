@@ -1,0 +1,22 @@
+body {
+    margin: 50px auto;
+    max-width: 1000px;
+    color: #000000;
+    font-family: 'Karla', sans-serif;
+    background-color: #FDF1E2;
+}
+
+h1 {
+    font-size: 45px;
+    transition: ease-in-out 0.5s;
+    text-align: center;
+}
+
+input {
+    margin-top: 20px;
+}
+
+label {
+    position: absolute;
+    font-weight: bold;
+}
